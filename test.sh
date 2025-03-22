@@ -63,7 +63,7 @@ done
 
 
 
-echo "-----------------------First task is done---------------------------"
+echo "------------------------First task is done---------------------------"
 while true;
 do
         read -p "Enter the 2nd Dir Name : " dir_name
